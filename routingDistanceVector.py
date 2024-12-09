@@ -1,3 +1,6 @@
+# Gabriele Fronzoni 
+# matricola: 0001068902
+
 class Node: 
     """
     A class that represent a network node.
